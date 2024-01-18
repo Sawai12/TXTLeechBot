@@ -1,7 +1,7 @@
 {
     "name":"⭐ MR.SATYAM ⭐",
     "description":"Download videos from various websites using this telegram bot",
-    "repository":"https://github.com/sumit10869/TXTLeechBot",
+    "repository":"https://github.com/Sawai12/TXTLeechBot",
     "buildpacks":[
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
@@ -16,19 +16,19 @@
     "env": {
         "API_ID":{
             "description": "Get your telegram API ID from https://my.telegram.org",
-            "value":"22439323"
+            "value":"27412454"
         },
         "API_HASH":{
             "description":"Get your telegram API HASH from https://my.telegram.org",
-		    "value":"e0e203c8be2c2c58b04d0c59fc82f507"
+		    "value":"9a657988cb949b70a313e0c84f14207e"
         },
         "BOT_TOKEN":{
             "description":"Get from BotFather",
-            "value":"6769775461:AAHKX7yauyaBxnClEzOE3PC94S5wtCg2Gm8"
+            "value":"6632666376:AAH2Ocb2IGjOJpPlk2BmhDQJxXyrEsRRipE"
         },
         "AUTH_USERS":{
-            "description":"Admin/Owner/Friends ID Seperate by ','  Ex: 44578878,8878899",
-            "value":"5900632797,6090912349"
+            "description":"Admin/Owner/Friends ID Seperate by ','  Ex: 6319179448",
+            "value":"6319179448"
         }
     }
 }
